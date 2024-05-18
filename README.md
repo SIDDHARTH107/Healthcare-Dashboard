@@ -3,6 +3,7 @@
 Halodoc Healthcare Project:
 
 Step 1: Understand the KPIs from the customer:
+
 a) Patient info according to the Patient id
 b) Billing Information 
 c) Bed Occupancy Breakdown
@@ -10,12 +11,19 @@ d) Overall Feedback for Doctor
 e) Billing Vs Insurance Stats
 
 Step 2: Analyzed the distinct count of Diagnosis and concluded that Viral Infection is the most occurred disease among the patients
+
 Step 3: Imported data from excel to Power BI and transformed the data in power query editor 
+
 Step 4: Added different visualizations like Cards to represent different metrics
+
 Step 5: Added Slicer to represent how many patients were there in a particular date range
+
 Step 6: For Bed Occupancy, we used column chart to represent the distinct count of types of bed occupancies
+
 Step 7: For Rating - Feedback, I have used donut chart to represent feedback volume for doctors
+
 Step 8: For Diagnosis type, I have used funnel chart
+
 Step 9: For Insurance Vs. Total Amount comparison graph, I have used line chart
 
 ## Dashboard
