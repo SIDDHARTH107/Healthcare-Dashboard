@@ -5,9 +5,13 @@ Halodoc Healthcare Project:
 Step 1: Understand the KPIs from the customer:
 
 a) Patient info according to the Patient id
+
 b) Billing Information 
+
 c) Bed Occupancy Breakdown
+
 d) Overall Feedback for Doctor
+
 e) Billing Vs Insurance Stats
 
 Step 2: Analyzed the distinct count of Diagnosis and concluded that Viral Infection is the most occurred disease among the patients
